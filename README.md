@@ -1,1 +1,5 @@
-# releases
+# Releases
+
+### Issues
+ * Wifi
+ * RIL
